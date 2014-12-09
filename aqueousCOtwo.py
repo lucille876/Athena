@@ -1,13 +1,13 @@
                                                 # SOLVING AQUEOUS CO2 SYSTEM VOLUME
 
 
-# Authored by : Kumar Abhijeet | kumarabhijeet087@gmail.com | 10GG20017 | Department of Geology & Geophysics, IIT Kharagpur
+# Authored by : 10GG20017 
 # Current Version : 0.1     ( Final expected version : 1.0 )
 
 #Python 2.7.6 (default, Nov 10 2013, 19:24:24), 64 bit (AMD64) on win32
 #If using Windows machine, run the code on CMD (Command Prompt) : ' python new_code.py   '
 
-#Don't play with indentation. Python is very unforgiving in nature and the whole code will break down
+#Don't play with indentation. Whole code will break down if indentation is not properly followed
 
 ############################### DON'T PLAY WITH CODE HERE ####################################################
 
@@ -81,4 +81,3 @@ req_volume, quad_volume1, quad_volume2  = mrk_equation(chosen_pressure,chosen_te
 print "VALUE OF VOLUME FROM THE MAIN FUNCTION IS " + str(req_volume) + " , " + str(quad_volume1) + " and " + str(quad_volume2)
 
 ############ END ###########################################################################################################################################
-####### Fork on Bitbucket for any bugs in the code #########################################################################################################
